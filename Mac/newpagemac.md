@@ -1,11 +1,11 @@
 ##新建笔记
 
 点击顶部的新建笔记按钮即可新建空白笔记
-![新建笔记](newpagemac-new.png)
+![新建笔记](img\newpagemac-new.png)
 
 ##编辑笔记
 #### Mac客户端内置编辑器说明
-![编辑器](newpagemac-editor.png)
+![编辑器](img\newpagemac-editor.png)
 
 1. 字体与字号
 2. 格式控制
@@ -23,13 +23,13 @@
  * 无序列表、有序列表
 4. 表格工具
  输入行列，可添加表格
-![编辑器](newpagemac-table.png)
+![编辑器](img\newpagemac-table.png)
 
 5. 添加间隔线、待办清单、图片
 6. 笔记相关信息
  * 添加标签
 点击笔记右上角的标签按钮，可添加或查看笔记标签
-![编辑器](newpagemac-tag.png)
+![编辑器](img\newpagemac-tag.png)
 
 
    在输入框中，输入文字，点击回车，添加新标签，还可勾选已有标签
@@ -38,9 +38,9 @@
 
  * 添加附件
 查看笔记附件，点击”+“进行添加
-![编辑器](newpagemac-attachment.png)
+![编辑器](img\newpagemac-attachment.png)
  * 查看笔记属性
-![编辑器](newpagemac-info.png)
+![编辑器](img\newpagemac-info.png)
 
 
 ####文本录入
@@ -50,7 +50,7 @@
 #### 添加附件
 
 点击添加附件按钮，在弹出框中点击 + ，选择上传的附件内容
-![编辑器](newpagemac-addAttachment.png)
+![编辑器](img\newpagemac-addAttachment.png)
 
 附件上传状态：右下角有蓝色箭头的，表明还未上传至服务器，如无任何标记，说明已经上传成功
 

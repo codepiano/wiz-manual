@@ -48,9 +48,9 @@
 ① 到 [Appstore ](https://itunes.apple.com/cn/app/wiznote-for-ipad/id634852089?l=zh&ls=1&mt=8)或为知笔记[官网下载为知笔记  iPad 版](http://misc.wiz.cn/download?product=wiznote&client=ipad)</br>
 ② 打开为知笔记，点击注册按钮 </br>
 ③ 输入你的有效邮箱并设置一个密码，点击注册，就成为为知笔记的用户了</br>
-![P1](P1.jpg)
+![P1](img\P1.jpg)
 ④ 也可以通过第三方帐户登录，快速成为为知笔记的个人用户</br>
-![P2](P2.jpg)
+![P2](img\P2.jpg)
 + PS：享受更多流量，更多历史版本恢复等高级功能，赶快开通为知笔记个人VIP，更多详情：[享受为知笔记VIP服务](http://blog.wiz.cn/wiz-vip.html)
 
 

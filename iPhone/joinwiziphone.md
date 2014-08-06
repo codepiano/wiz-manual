@@ -48,8 +48,8 @@
 ① 到 [Appstore](https://itunes.apple.com/cn/app/wiznote-for-iphone/id599493807?l=zh&ls=1&mt=8) 或为知笔记官网[下载为知笔记  iPhone 版](https://itunes.apple.com/cn/app/wiznote-for-iphone/id599493807?ls=1&mt=8)</br>
 ② 打开为知笔记，点击注册按钮 </br>
 ③ 输入你的有效邮箱并设置一个密码，点击注册，就成为为知笔记的用户了</br>
-![I1](I1.jpg)
+![I1](img\I1.jpg)
 
 ④ 也可以通过第三方帐户登录，快速成为为知笔记的个人用户
-![I2](I2.jpg)
+![I2](img\I2.jpg)
 + PS：享受更多流量，更多历史版本恢复等高级功能，赶快开通为知笔记个人VIP，更多详情：[享受为知笔记VIP服务](http://blog.wiz.cn/wiz-vip.html)

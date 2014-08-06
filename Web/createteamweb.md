@@ -13,7 +13,7 @@
 
 1. 访问 http://www.wiz.cn/biz ，输入您的常用邮箱，点击”免费开通企业服务“
 
-![企业服务向导](createteamweb-1.png)
+![企业服务向导](img\createteamweb-1.png)
 
  + 如果已经有为知笔记账号，建议使用您的账号邮箱开通企业服务；
  + 如果您是新用户，建议使用您的企业邮箱进行开通
@@ -22,9 +22,9 @@
 2. 在弹出的页面中，完成企业服务开通向导
 
   * 第一步，完善团队基本信息
-  ![企业服务向导](createteamweb-2.png)
+  ![企业服务向导](img\createteamweb-2.png)
   * 第二步，根据需求，选择所要创建的企业群组，将鼠标移到群组名称上方，可查看该群组的建议用途、内置的目录等信息
-  ![企业服务向导](createteamweb-3.jpg)
+  ![企业服务向导](img\createteamweb-3.jpg)
    > 默认可选择2个
    > 如需增加企业群组，可在创建成功后升级服务；
   * 第三步，输入成员邮箱，添加到团队，这里会将成员默认分配到所有群组
@@ -38,7 +38,7 @@
 为知笔记企业服务为不同类型、规模的团队，结合提供了多种产品套餐方案。
 
 **如何升级企业服务？**
-![公有云价格](createteamweb-pricing.png)
+![公有云价格](img\createteamweb-pricing.png)
 
 [点此了解，为知笔记公有云付费方案](http://blog.wiz.cn/wiznote-biz-pricing.html)
 
@@ -46,10 +46,10 @@
 1.开通试用后，[登录为知笔记企业服务网页版](https://note.wiz.cn )
 
 2.点击头像->选择管理后台，访问管理后台”付费方案“标签页
-![付费方案](createteamweb-pay.png)
+![付费方案](img\createteamweb-pay.png)
 
 3.在产品套餐表格中，选择相应的方案进行支付。
-![支付中心](createteamweb-paycenter.png)
+![支付中心](img\createteamweb-paycenter.png)
 
 4.也可以登录Windows版客户端，右键点击团队名称，选择”管理团队“，在弹出窗口中，查看”付费方案“标签，选择支付。
 

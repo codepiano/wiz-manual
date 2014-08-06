@@ -47,14 +47,14 @@
 
 ① 到各大应用市场（豌豆荚、小米、魅族、三星等市场）或为知笔记官网下载为知笔记 Android 版 或为知笔记官网[下载为知笔记  Android 版](http://misc.wiz.cn/download?product=wiznote&client=android-phone)</br>
 ② 打开为知笔记，点击注册按钮 </br>
-![A1](A1.jpg)
+![A1](img\A1.jpg)
 
 ③ 输入你的有效邮箱并设置一个密码，点击注册，就成为为知笔记的用户了</br>
 
-![A2](A2.jpg)
+![A2](img\A2.jpg)
 
 ④ 也可以通过第三方帐户登录，快速成为为知笔记的个人用户
 
-![A3](A3.jpg)
+![A3](img\A3.jpg)
 
 + PS：享受更多流量，更多历史版本恢复等高级功能，赶快开通为知笔记个人VIP，更多详情：[享受为知笔记VIP服务](http://blog.wiz.cn/wiz-vip.html)

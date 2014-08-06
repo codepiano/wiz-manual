@@ -26,13 +26,13 @@
 
 1. 进入团队管理后台，选择“群组管理”页签
 1. 群组卡片列表中，点击群组名称或备注，可进行修改
-![群组卡片](teamworkweb-groupCard.png)
+![群组卡片](img\teamworkweb-groupCard.png)
 1. 点击“成员”，可查看当前群组所有成员，并修改成员权限
-![查看成员](teamworkweb-cardInfo.jpg)
+![查看成员](img\teamworkweb-cardInfo.jpg)
  * 可点击复选框，多选进行“删除”或“更改权限”操作
  * 点击“添加成员”，可为当前群组添加成员
 1. 点击群组卡片上的“添加成员”，在弹出窗口中，选择其他团队成员，分配到当前群组
-![分配群组](teamworkweb-cardAdd.jpg)
+![分配群组](img\teamworkweb-cardAdd.jpg)
  * 头像上显示的，是不在当前群组中的成员
  * 团队创建者或团队管理员，可在这里添加新的团队成员，并将其加入到群组
  * 点击“添加为”可选择相应权限
@@ -46,28 +46,28 @@
 在成员管理模块，可添加、删除团队成员，设置成员角色，将成员分配到群组等
 1. 添加成员
 输入成员邮箱或手机号，点击“添加到团队”，可将成员加入到团队中。
-![成员管理](teamworkweb-addmember.png)
+![成员管理](img\teamworkweb-addmember.png)
  * 被添加的邮箱，将会收到一封确认邮件，未注册为知笔记账号的用户，根据其中的链接操作即可
  * 添加手机号，系统会自动将手机号创建为为知笔记账号，还可使用企业服务微信助手功能，详情可点击按钮左侧的链接
  * 输入不符合格式要求的邮箱或手机号，无法添加，但会保留在文本框中以方便修改
 1. 修改昵称
 添加完成员后，可在下方的列表中修改昵称
 将鼠标移动到头像上，点击昵称，出现文本框，输入新的团队昵称即可
-![修改昵称](teamworkweb-changealias.jpg)
+![修改昵称](img\teamworkweb-changealias.jpg)
  * 为了统一管理成员姓名，避免出现过于个性化、不可识别的昵称，成员不可自行修改昵称
  * 个人账户设置中的昵称，仅显示在个人笔记功能中
 1. 设置成员角色
  点击成员头像，在页面下方弹出的操作栏中，可设置成员角色
-![成员角色](teamworkweb-setrole.jpg)
+![成员角色](img\teamworkweb-setrole.jpg)
  * 成员角色，用于区分改成员是否具有团队管理权限，即是否能够添加新团队成员，是否可以管理群组等，具体参照10.2.2.3 权限说明
 1. 分配到群组
  点击头像，在页面下方弹出的操作栏中，可将成员分配到群组
-![分配群组](teamworkweb-assigngroup.jpg)
+![分配群组](img\teamworkweb-assigngroup.jpg)
  * 可多选头像，添加到群组
  * 成员默认被添加为编辑权限，可在群组成员列表中进行修改
 1. 成员查看
  鼠标移动至头像上，点击”查看“按钮，可查看成员已经加入的群组
-![成员查看](teamworkweb-checkinfo.png)
+![成员查看](img\teamworkweb-checkinfo.png)
  * 点击”移出群组“，可快速将成员从群组中删除
  * 点击”权限“，可设置成员的群组权限
 
@@ -107,16 +107,16 @@
 点击”←“，再展开的群组目录中，选择群组
 在第二栏中，点击文件夹右侧的下拉图标，在弹出窗口中选择菜单进行操作：新建子文件夹，重命名，或删除；
 点击“新建文件夹”新建目录
-![新建目录](teamworkweb-createcatalog.png)
+![新建目录](img\teamworkweb-createcatalog.png)
 **2.创建群组**
 
 点击banner上的按钮
-![banner按钮](teamworkweb-bannerbutton.png)
+![banner按钮](img\teamworkweb-bannerbutton.png)
 选择团队，点击 + 创建群组
 
-![创建群组](teamworkweb-creategroup.png)
+![创建群组](img\teamworkweb-creategroup.png)
 在弹出窗口中，填写群组信息
-![群组信息](teamworkweb-groupinfo.png)
+![群组信息](img\teamworkweb-groupinfo.png)
 
 **3.创建笔记、添加附件等**（可通过Windows客户端拖动本地office文档上传，具体参照： ）
 
@@ -136,14 +136,14 @@
 ####标题@提及人员
 
 在笔记标题中输入“@”，在弹出的成员列表中，选择要提及的人员，完成后保存笔记，笔记上传成功后，被提及的人，会在消息中心接收到提醒
-![标题@](teamworkweb-titleMention.png)
+![标题@](img\teamworkweb-titleMention.png)
 * 列表中为当前群组成员;
 * 支持拼音匹配；
 * 若要提及群组中所有人，可输入“@all";
 
 #### 对笔记发表评论
 在笔记下方的文本框，输入评论
-![发表评论](teamworkweb-comment.jpg)
+![发表评论](img\teamworkweb-comment.jpg)
 点击”发表评论“，笔记作者会在消息中心收到笔记被评论的提醒；
 评论中，可@提及成员，被提及的人，同样会接收到消息；
 笔记阅读状态下，右上角可显示评论数。
@@ -163,7 +163,7 @@
 * 修改我的：我的笔记被编辑时接收的消息
 
 3.  点击消息，可查看相关笔记；
-![消息查看](teamworkweb-message.jpg)
+![消息查看](img\teamworkweb-message.jpg)
 
 ####协同编辑
 为知笔记可以提供多人编辑一篇笔记，来提高团队工作效率。但是，这里需要注意当一个成员在编辑的时候，另外的客户端会出现**成员正在编辑笔记，此时不要进行编辑。待该成员保存成功后再编辑。
