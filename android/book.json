@@ -1,0 +1,29 @@
+{
+    "title": null,
+    "description": null,
+    "plugins": [
+        "-mathjax"
+    ],
+    "pluginsConfig": {
+        "fontSettings": {
+            "theme": "sepia",
+            "family": "serif",
+            "size": 2
+        }
+    },
+    "links": {
+        "home": "http://www.wiz.cn",
+        "about": null,
+        "issues": null,
+        "contribute": null,
+        "custom": {
+            "为知笔记": "http://www.wiz.cn"
+        },
+        "sharing": {
+            "google"   : true,
+            "facebook" : true,
+            "twitter"  : true,
+            "weibo"    : true
+        }
+    }
+}
