@@ -12,10 +12,10 @@
         }
     },
     "links": {
-        "home": "http://www.wiz.cn",
-        "about": null,
-        "issues": null,
-        "contribute": null,
+        "home": false,
+        "about": false,
+        "issues": false,
+        "contribute": false,
         "custom": {
             "为知笔记": "http://www.wiz.cn"
         },
