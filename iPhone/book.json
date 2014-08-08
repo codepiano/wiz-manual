@@ -19,6 +19,7 @@
         "custom": {
             "为知笔记": "http://www.wiz.cn"
         },
+        "gitbook": false,
         "sharing": {
             "google"   : true,
             "facebook" : true,
