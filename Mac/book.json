@@ -1,6 +1,6 @@
 {
-    "title": false,
-    "description": false,
+    "title": "为知笔记 Mac 版使用手册",
+    "description": "为知笔记 Mac 版使用手册",
     "plugins": [
         "-mathjax"
     ],
