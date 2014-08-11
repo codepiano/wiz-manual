@@ -6,7 +6,7 @@
     ],
     "pluginsConfig": {
         "fontSettings": {
-            "theme": "sepia",
+            "theme": "white",
             "family": "serif",
             "size": 2
         }
