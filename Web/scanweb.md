@@ -1,15 +1,15 @@
 ##阅读笔记
 ####阅读笔记信息
-![阅读笔记信息](img\scanweb-info.png)
+![阅读笔记信息](img/scanweb-info.png)
 
 选择需要阅读的笔记，点击右上角的笔记信息，在弹出窗口中，可查阅笔记所在位置、作者、创建日期、修改日期等信息
-![笔记信息详情](img\scanweb-infodetail.png)
+![笔记信息详情](img/scanweb-infodetail.png)
 > 来源：显示通过网页剪辑器保存的网页原始地址
 
 #### 评论
 
 网页版阅读笔记时，正文下方为评论区域
-![笔记评论](img\scanweb-comment.jpg)
+![笔记评论](img/scanweb-comment.jpg)
 
 ####标签
 
