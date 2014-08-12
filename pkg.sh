@@ -3,6 +3,7 @@
 echo 使用的相对路径，会清空同级目录下的preview目录
 mkdir preview 
 rm -rf preview/*
+cp index.html preview/
 echo ----------------生成mac--------------------
 gitbook build Mac
 mv Mac/_book preview/mac
