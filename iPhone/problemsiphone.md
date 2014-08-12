@@ -20,9 +20,9 @@
 
 
 ##其他客户端常见问题
-+ ####[Android客户端](http://localhost:8004/problemsandroid.html)
++ ####[Android客户端](/android/problemsandroid.html)
 
-+ ####[iPad客户端](http://localhost:8004/problemsipad.html)
-+ ####[Mac客户端](http://localhost:8004/problemsmac.html)
-+ ####[Web端](http://localhost:8004/problemsweb.html)
-+ ####[Windows客户端](http://localhost:8004/problemspc.html)
++ ####[iPad客户端](/ipad/problemsipad.html)
++ ####[Mac客户端](/mac/problemsmac.html)
++ ####[Web端](/web/problemsweb.html)
++ ####[Windows客户端](/windows/problemspc.html)

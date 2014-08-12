@@ -123,10 +123,10 @@ Windows客户端，可以通过拖动文件到目录的方式，直接显示文�
 
 
 ##其他客户端常见问题
-+ ####[iPhone客户端](http://localhost:8004/problemsiphone.html)
-+ ####[Android客户端](http://localhost:8004/problemsandroid.html)
-+ ####[iPad客户端](http://localhost:8004/problemsipad.html)
-+ ####[Mac客户端](http://localhost:8004/problemsmac.html)
-+ ####[Web端](http://localhost:8004/problemsweb.html)
++ ####[iPhone客户端](/iphone/problemsiphone.html)
++ ####[Android客户端](/android/problemsandroid.html)
++ ####[iPad客户端](/ipad/problemsipad.html)
++ ####[Mac客户端](/mac/problemsmac.html)
++ ####[Web端](/web/problemsweb.html)
 
 

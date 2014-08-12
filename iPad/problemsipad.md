@@ -19,9 +19,8 @@
 
 ##其他客户端常见问题
 
-+ ####[iPhone客户端](http://localhost:8004/problemsiphone.html)
-
-+ ####[Android客户端](http://localhost:8004/problemsandroid.html)
-+ ####[Mac客户端](http://localhost:8004/problemsmac.html)
-+ ####[Web端](http://localhost:8004/problemsweb.html)
-+ ####[Windows客户端](http://localhost:8004/problemspc.html)
++ ####[iPhone客户端](/iphone/problemsiphone.html)
++ ####[Android客户端](/android/problemsandroid.html)
++ ####[Mac客户端](/mac/problemsmac.html)
++ ####[Web端](/web/problemsweb.html)
++ ####[Windows客户端](/windows/problemspc.html)
