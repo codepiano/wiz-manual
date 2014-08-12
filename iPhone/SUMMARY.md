@@ -1,5 +1,6 @@
 # Summary
 
+* [欢迎使用为知笔记](README.md)
 * [主界面介绍](mainpageiphone.md)
 * [新建及编辑笔记](createiphone.md)
 * [同步](synciphone.md)

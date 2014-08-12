@@ -1,5 +1,6 @@
 # Summary
 
+* [欢迎使用为知笔记](README.md)
 * [主界面介绍](mainpageandroid.md)
 * [新建及编辑笔记](newandroid.md)
 * [同步](syncandroid.md)
