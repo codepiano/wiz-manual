@@ -1,6 +1,5 @@
 # Summary
 
-* [欢迎使用为知笔记](joinwizipad.md)
 * [主界面介绍](amainpageipad.md)
 * [新建及编辑笔记](newipad.md)
 * [同步](syncipad.md)
