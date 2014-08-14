@@ -2,13 +2,16 @@
     "title": "为知笔记 Android 版使用手册",
     "description":  "为知笔记 Android 版使用手册",
     "plugins": [
-        "-mathjax"
+        "-mathjax", "ga"
     ],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",
             "family": "serif",
             "size": 2
+        },
+        "ga": {
+            "token": "UA-39088953-8"
         }
     },
     "links": {
