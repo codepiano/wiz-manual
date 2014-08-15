@@ -20,9 +20,9 @@
 
 
 ##其他客户端常见问题
-+ ####[Android客户端](/android/problemsandroid.html)
++ ####[Android客户端](/manual/android/problemsandroid.html)
 
-+ ####[iPad客户端](/ipad/problemsipad.html)
-+ ####[Mac客户端](/mac/problemsmac.html)
-+ ####[Web端](/web/problemsweb.html)
-+ ####[Windows客户端](/windows/problemspc.html)
++ ####[iPad客户端](/manual/ipad/problemsipad.html)
++ ####[Mac客户端](/manual/mac/problemsmac.html)
++ ####[Web端](/manual/web/problemsweb.html)
++ ####[Windows客户端](/manual/windows/problemspc.html)

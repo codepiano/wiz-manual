@@ -31,14 +31,14 @@
 ## 网页分享
 当您通过手机浏览器查看网页内容时，如果想保存网页内容到为知笔记，只需要点击浏览器中的分享按钮，然后通过邮件分享到为知笔记即可。
 
-[查看 Windows 端的的内容收集方式](/windows/collectpc.html)
+[查看 Windows 端的的内容收集方式](/manual/windows/collectpc.html)
 
-[查看 Mac 端的内容收集方式](/mac/collectmac.html)
+[查看 Mac 端的内容收集方式](/manual/mac/collectmac.html)
 
-[查看 Web 端的的内容收集方式](/web/collectweb.html)
+[查看 Web 端的的内容收集方式](/manual/web/collectweb.html)
 
-[查看 iPad 端的内容收集方式](/ipad/collectipad.html)
+[查看 iPad 端的内容收集方式](/manual/ipad/collectipad.html)
 
-[查看 Android 端的内容收集方式](/android/collectandroid.html)
+[查看 Android 端的内容收集方式](/manual/android/collectandroid.html)
 
 

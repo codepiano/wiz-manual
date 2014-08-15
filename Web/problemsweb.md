@@ -118,14 +118,14 @@ Windows客户端，可以通过拖动文件到目录的方式，直接显示文�
 
 
 ##iPhone客户端
-[点此查看iPhone客户端常见问题](/iphone/problemsiphone.html)
+[点此查看iPhone客户端常见问题](/manual/iphone/problemsiphone.html)
 
 
 ##Android客户端
-[点此查看Android客户端常见问题](/android/problemsandroid.html)
+[点此查看Android客户端常见问题](/manual/android/problemsandroid.html)
 
 ##iPad客户端
-[点此查看iPad客户端常见问题](/ipad/problemsipad.html)
+[点此查看iPad客户端常见问题](/manual/ipad/problemsipad.html)
 
 ##Windows客户端
-[点此查看Windows客户端常见问题](/windows/problemspc.html)
+[点此查看Windows客户端常见问题](/manual/windows/problemspc.html)

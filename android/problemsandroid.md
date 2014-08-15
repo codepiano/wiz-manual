@@ -21,11 +21,11 @@
 答：最低支持的是 Android 2.3.3
 
 ##其他客户端常见问题
-+ ####[iPhone客户端](/iphone/problemsiphone.html)
-+ ####[iPad客户端](/iphone/problemsipad.html)
-+ ####[Mac客户端](/iphone/problemsmac.html)
-+ ####[Web端](/web/problemsweb.html)
-+ ####[Windows客户端](/windows/problemspc.html)
++ ####[iPhone客户端](/manual/iphone/problemsiphone.html)
++ ####[iPad客户端](/manual/iphone/problemsipad.html)
++ ####[Mac客户端](/manual/iphone/problemsmac.html)
++ ####[Web端](/manual/web/problemsweb.html)
++ ####[Windows客户端](/manual/windows/problemspc.html)
 
 
 

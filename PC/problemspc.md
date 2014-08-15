@@ -123,10 +123,10 @@ Windows客户端，可以通过拖动文件到目录的方式，直接显示文�
 
 
 ##其他客户端常见问题
-+ ####[iPhone客户端](/iphone/problemsiphone.html)
-+ ####[Android客户端](/android/problemsandroid.html)
-+ ####[iPad客户端](/ipad/problemsipad.html)
-+ ####[Mac客户端](/mac/problemsmac.html)
-+ ####[Web端](/web/problemsweb.html)
++ ####[iPhone客户端](/manual/iphone/problemsiphone.html)
++ ####[Android客户端](/manual/android/problemsandroid.html)
++ ####[iPad客户端](/manual/ipad/problemsipad.html)
++ ####[Mac客户端](/manual/mac/problemsmac.html)
++ ####[Web端](/manual/web/problemsweb.html)
 
 

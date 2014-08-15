@@ -21,5 +21,5 @@ gitbook build iPad
 mv iPad/_book preview/ipad
 echo ----------------生成iphone-----------------
 gitbook build iPhone
-mv iPhone/_book preview/iPhone
+mv iPhone/_book preview/iphone
 echo ----------------success--------------------
