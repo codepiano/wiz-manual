@@ -27,7 +27,8 @@
             "google"   : true,
             "facebook" : true,
             "twitter"  : true,
-            "weibo"    : true
+            "weibo"    : true,
+            "qq"       : true
         }
     }
 }
