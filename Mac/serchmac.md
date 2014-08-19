@@ -1,9 +1,11 @@
 ## Mac版如何搜索笔记
 1. 点击菜单--工具(T)--选择”搜索笔记“
-![搜索笔记](img/search-menu.png)
+
+    ![搜索笔记](img/search-menu.png)
 
 1. 或在搜索框中直接输入关键字进行搜索
-![关键字](img/search-key.png)
+
+    ![关键字](img/search-key.png)
 
 
  * 默认搜索当前位置，即鼠标焦点所在的群组或个人笔记
