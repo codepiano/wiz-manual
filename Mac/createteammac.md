@@ -8,27 +8,32 @@
  * 团队经验积累
 
 ## 开通企业服务
-1.登录为知笔记Mac客户端，点击左侧的“团队&群组 +”
-![创建](img/createteam-plus.png)
 
+1. 登录为知笔记Mac客户端，点击左侧的“团队&群组 +”
+
+    ![创建](img/createteam-plus.png)
 1. 在弹出的页面中，选择“开通企业服务“
-![选择](img/createteam-choose.png)
+
+    ![选择](img/createteam-choose.png)
  * 若当前账号已经创建过团队，这里会显示”创建企业群组“
  * 开通后，当前账号将作为团队创建者账户，即超级账户
-
 1. 进入开通向导
  * 第一步，完善团队基本信息
-![向导](img/createteam-step1.png)
+
+    ![向导](img/createteam-step1.png)
  * 第二步，根据需求，选择所要创建的企业群组
-![向导](img/createteam-step2.png)
+
+    ![向导](img/createteam-step2.png)
   > 默认可选择2个，选择后可在客户端中进行修改
   > 如需增加企业群组，可在创建成功后升级服务；
 
  * 第三步，输入成员邮箱，添加到团队，这里会将成员默认分配到所有群组
-![向导](img/createteam-step3.png)
+
+    ![向导](img/createteam-step3.png)
   > 开通成功后，会发送一封确认邮件，成员点击正文中的链接操作即可
 1. 完成向导后，自动进入团队管理后台，如无需继续添加成员，可将窗口关闭
-![管理后台](img/createteam-admin.png)
+
+    ![管理后台](img/createteam-admin.png)
 1. 点击Mac客户端的同步按钮，查看新创建的群组和目录
 
 ##升级企业服务
@@ -41,9 +46,11 @@
 ### 公有云购买
 
 1. 开通试用后，登录为知笔记企业服务网页版（https://note.wiz.cn ），访问管理后台”服务资费“标签页，在产品套餐表格中，选择相应的方案进行支付。
-![支付](img/createteam-pay.png)
+
+    ![支付](img/createteam-pay.png)
 1. 在支付中心，选择所要购买的服务类型与时长，选择支付类型进行购买
-![支付中心](img/createteam-paycenter.png)
+
+    ![支付中心](img/createteam-paycenter.png)
  * 如采用汇款或转账方式，请选择”其他方式“，在弹出框中查看汇款或转账的相关信息，点击”去付款”后，系统会记录您的订单号，客服人员在接到您的汇款或转账凭证后，会联系您为您升级
 
 ### 私有部署方案

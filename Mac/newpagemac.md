@@ -1,11 +1,13 @@
 ##新建笔记
 
 点击顶部的新建笔记按钮即可新建空白笔记
-![新建笔记](img/newpagemac-new.png)
+
+ ![新建笔记](img/newpagemac-new.png)
 
 ##编辑笔记
 #### Mac客户端内置编辑器说明
-![编辑器](img/newpagemac-editor.png)
+
+ ![编辑器](img/newpagemac-editor.png)
 
 1. 字体与字号
 2. 格式控制
@@ -27,21 +29,23 @@
 
 5. 添加间隔线、待办清单、图片
 6. 笔记相关信息
+
  * 添加标签
-点击笔记右上角的标签按钮，可添加或查看笔记标签
-![编辑器](img/newpagemac-tag.png)
 
+    点击笔记右上角的标签按钮，可添加或查看笔记标签
 
-   在输入框中，输入文字，点击回车，添加新标签，还可勾选已有标签
+    ![编辑器](img/newpagemac-tag.png)
+    在输入框中，输入文字，点击回车，添加新标签，还可勾选已有标签
 
-> 群组笔记不支持标签
-
+    群组笔记不支持标签
  * 添加附件
-查看笔记附件，点击”+“进行添加
-![编辑器](img/newpagemac-attachment.png)
- * 查看笔记属性
-![编辑器](img/newpagemac-info.png)
 
+    查看笔记附件，点击”+“进行添加
+
+    ![编辑器](img/newpagemac-attachment.png)
+ * 查看笔记属性
+
+    ![编辑器](img/newpagemac-info.png)
 
 ####文本录入
 

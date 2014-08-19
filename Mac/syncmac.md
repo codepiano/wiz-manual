@@ -1,10 +1,11 @@
 ##自动同步设置
 
 登录Mac客户端，点击菜单中的“wiznote”，选择“偏好设置”
+
 ![设置](img/sync-menu.png)
 
-
 可选择同步时间间隔，个人笔记与群组笔记的下载选项
+
 ![设置](img/sync-setting.png)
 
 
@@ -13,9 +14,12 @@
 Mac客户端第二栏，笔记列表中，每篇笔记的右下角都会有当前同步状态的标识
 
  * 绿色箭头，笔记还未下载到本地
-![设置](img/sync-green.png)
+
+    ![设置](img/sync-green.png)
+
  * 蓝色箭头，笔记还未同步到服务器
-![设置](img/sync-blue.png)
+
+    ![设置](img/sync-blue.png)
 
 
 ##为知笔记同步机制
