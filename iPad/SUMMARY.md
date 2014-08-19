@@ -6,7 +6,7 @@
 * [同步](syncipad.md)
 * [浏览笔记](scanipad.md)
 * [管理笔记](manageipad.md)
-* [快速搜索笔记](serchipad.md)
+* [快速搜索笔记](searchipad.md)
 * [内容收集](collectipad.md)
 * [开通企业服务](createteamipad.md)
 * [团队管理及应用](teamworkipad.md)

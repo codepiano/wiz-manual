@@ -6,7 +6,7 @@
 * [同步](synciphone.md)
 * [浏览笔记](scaniphone.md)
 * [管理笔记](manageiphone.md)
-* [快速搜索笔记](surchiphone.md)
+* [快速搜索笔记](searchiphone.md)
 * [内容收集](collectiphone.md)
 * [开通企业服务](createteamiphone.md)
 * [团队管理及应用](teamworkiphone.md)

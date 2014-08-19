@@ -6,7 +6,7 @@
 * [同步](syncweb.md)
 * [浏览笔记](scanweb.md)
 * [管理笔记](manageweb.md)
-* [快速搜索笔记](serchweb.md)
+* [快速搜索笔记](searchweb.md)
 * [内容收集](collectweb.md)
 * [开通企业服务](createteamweb.md)
 * [团队管理及应用](teamworkweb.md)

@@ -6,7 +6,7 @@
 * [同步](syncandroid.md)
 * [浏览笔记](scanandroid.md)
 * [管理笔记](manageandroid.md)
-* [快速搜索笔记](serchandroid.md)
+* [快速搜索笔记](searchandroid.md)
 * [内容收集](collectandroid.md)
 * [开通企业服务](createteamandroid.md)
 * [团队管理及应用](teamworkandroid.md)

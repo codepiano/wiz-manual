@@ -6,7 +6,7 @@
 * [同步](syncpc.md)
 * [浏览笔记](scanpc.md)
 * [管理笔记](managepc.md)
-* [快速搜索笔记](serchpc.md)
+* [快速搜索笔记](searchpc.md)
 * [内容收集](collectpc.md)
 * [开通企业服务](createteampc.md)
 * [团队管理及应用](teamworkpc.md)

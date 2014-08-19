@@ -2,13 +2,13 @@
 
 点击顶部的新建笔记按钮即可新建空白笔记
 
-    ![新建笔记](img/newpagemac-new.png)
+![新建笔记](img/newpagemac-new.png)
 
 ##编辑笔记
 
 #### Mac客户端内置编辑器说明
 
-    ![编辑器](img/newpagemac-editor.png)
+![编辑器](img/newpagemac-editor.png)
 
 1. 字体与字号
 1. 格式控制
