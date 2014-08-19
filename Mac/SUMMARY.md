@@ -6,7 +6,7 @@
 * [同步](syncmac.md)
 * [浏览笔记](scanmac.md)
 * [管理笔记](managemac.md)
-* [快速搜索笔记](serchmac.md)
+* [快速搜索笔记](searchmac.md)
 * [内容收集](collectmac.md)
 * [开通企业服务](createteammac.md)
 * [团队管理及应用](teamworkmac.md)
