@@ -21,7 +21,7 @@ echo ----------------生成windows----------------
 gitbook build PC
 mv PC/_book manual/windows
 echo ----------------生成web--------------------
-gitbook build web
+gitbook build Web
 mv Web/_book manual/web
 echo ----------------生成android----------------
 gitbook build android
