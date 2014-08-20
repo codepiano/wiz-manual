@@ -28,7 +28,8 @@
             "facebook" : true,
             "twitter"  : true,
             "weibo"    : true,
-            "qq"       : true
+            "qq"       : true,
+            "weixin"   : true
         }
     },
     "pdf": {
