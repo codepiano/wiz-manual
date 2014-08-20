@@ -19,8 +19,15 @@
         "about": false,
         "issues": false,
         "contribute": false,
-        "custom": {
+        "sidebar": {
             "为知笔记官网": "http://www.wiz.cn"
+        },
+        "tail": {
+            "为知笔记 Mac 版使用手册": "http://www.wiz.cn/manual/mac",
+            "为知笔记网页版使用手册": "http://www.wiz.cn/manual/web",
+            "为知笔记 Android 版使用手册": "http://www.wiz.cn/manual/android",
+            "为知笔记 iPhone 版使用手册": "http://www.wiz.cn/manual/iphone",
+            "为知笔记 iPad 版使用手册": "http://www.wiz.cn/manual/ipad"
         },
         "gitbook": false,
         "sharing": {
