@@ -2,7 +2,7 @@
 if [[ ! "$USER" = "codepiano" ]]; then
     node_bin=$(which node)
     node_home=${node_bin%%/bin/node}
-    echo "guss nodejs home is:${node_home}"
+    echo "guess nodejs home is:${node_home}"
     gitbook_home=${node_home}/lib/node_modules/gitbook
     echo "guess gitbook module path is:$gitbook_home"
     if [[ -d $gitbook_home ]]; then
