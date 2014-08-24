@@ -7,3 +7,7 @@
 ```
 sh pkg.sh
 ```
+
+### favicon.ico
+
+运行时会尝试分析出gitbook的路径，然后使用目录中的替换gitbook默认的favicon.ico
