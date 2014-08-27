@@ -1,6 +1,10 @@
 {
     "title": "为知笔记 Windows 版使用手册",
     "description": "为知笔记 Windows 版使用手册",
+    "introduction": {
+        "path": "welcome-pc.md",
+        "title": "欢迎使用为知笔记"
+    },
     "plugins": [
         "-mathjax", "ga"
     ],
