@@ -2,7 +2,11 @@
 
 ### 打包和nginx设置
 
-每次都会先清空preview目录，有一个简陋的index.html，方便测试时预览
+由于改动了配置文件结构，无法使用官方的gitbook进行打包，请使用我们修改过的支持中文搜索的gitbook版本
+
+npm install -g codepiano/gitbook
+
+打包后的文件在 repo路径/manual/ 下，每次生成网站都会先清空manual目录，有一个简陋的index.html，方便测试时预览
 
 ```
 sh pkg.sh
