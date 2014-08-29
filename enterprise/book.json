@@ -4,6 +4,9 @@
     "plugins": [
         "-mathjax", "ga"
     ],
+    "plugins": [
+        "-mathjax", "ga", "duoshuo"
+    ],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",
@@ -12,6 +15,10 @@
         },
         "ga": {
             "token": "UA-39088953-8"
+        },
+        "duoshuo": {
+            "short_name": "wiznote",
+            "theme": "default"
         }
     },
     "links": {
