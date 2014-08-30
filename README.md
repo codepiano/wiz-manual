@@ -44,12 +44,12 @@ location ^~ /manual {
 在gitbook所在目录下安装
 
 1. 第三方评论插件，集成多说评论
-    ```bash
+    ```shell
     npm isntall codepiano/gitbook-plugin-duoshuo
     ```
  
 1. 谷歌分析插件
-    ```bash
+    ```shell
     npm install gitbook-plugin-ga
     ```
 
