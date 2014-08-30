@@ -8,7 +8,7 @@ npm install -g codepiano/gitbook
 
 打包后的文件在 repo路径/manual/ 下，每次生成网站都会先清空manual目录，有一个简陋的index.html，方便测试时预览
 
-```
+```bash
 sh pkg.sh
 ```
 
@@ -38,3 +38,18 @@ location ^~ /manual {
 1. 使用-分割文件名中的单词
 1. 不要出现多余的空行、空白字符
 1. 图片命名规范化，旧的命名没必要浪费精力修改了，以后更新的时候尽量使用有意义的名称
+
+### 所用插件
+
+在gitbook所在目录下安装
+
+1. 第三方评论插件，集成多说评论
+    ```bash
+    npm isntall codepiano/gitbook-plugin-duoshuo
+    ```
+ 
+1. 谷歌分析插件
+    ```bash
+    npm install gitbook-plugin-ga
+    ```
+
