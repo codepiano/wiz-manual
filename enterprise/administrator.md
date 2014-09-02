@@ -15,6 +15,20 @@
 1. 搜索服务
     ElasticSearch 0.90.5
 
+### 存储目录结构介绍
+
+* 文件数据：
+    1. 笔记数据 /wiz/storage/data_root
+    1. 摘要数据 /wiz/storage/abstract_data_root
+    1. 索引数据 /wiz/storage/search/es-index
+    1. 数据库数据目录位置 /wiz/storage/mysql_databases
+
+* 数据库：
+    1. wizasent 用户服务
+    1. wizksent 笔记服务
+    1. wizkv 存储服务
+    1. wiz_message 消息服务
+
 ### 服务介绍
 
 #### Java应用

@@ -61,7 +61,7 @@ forever restartall
 
 1. 更新完成，检查网页版和各客户端是否正常
 
-<a name="other" />其他更改：
+### <a name="other" />其他更改：
 + 2014-8-11发布的版本，jdk版本升级到了7.0，以前的用户如果需要升级私有部署，停止tomcat以后，需要先升级jdk版本
      可以在oracle官网或者下面地址获取jdk-7u65-linux-x64.rpm ：http://yun.baidu.com/s/1u8Trw
      下载完成后执行
