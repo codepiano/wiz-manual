@@ -6,9 +6,6 @@
         "title": "服务介绍"
     },
     "plugins": [
-        "-mathjax", "ga"
-    ],
-    "plugins": [
         "-mathjax", "ga", "duoshuo"
     ],
     "pluginsConfig": {
