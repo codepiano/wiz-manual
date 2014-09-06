@@ -45,7 +45,7 @@ location ^~ /manual {
 
 1. 第三方评论插件，集成多说评论
     ```shell
-    npm isntall codepiano/gitbook-plugin-duoshuo
+    npm isntall gitbook-plugin-duoshuo
     ```
  
 1. 谷歌分析插件
