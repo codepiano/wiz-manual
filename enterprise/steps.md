@@ -1,6 +1,6 @@
 ## 初始化系统环境
 
-启动虚拟机里面的CentOS，并使用root用户登录（强烈建议）。*注意：推荐直接使用root用户登录，否则必须使用有sudo权限的账户。因为CentOS普通账户没有sudo权限，因此建议直接使用root账户登录*
+启动虚拟机里面的CentOS，并使用root用户登录（强烈建议）。*注意：推荐直接使用root用户登录，否则必须使用有sudo权限的账户。因为CentOS普通账户默认没有sudo权限，因此建议直接使用root账户登录*
 
 打开下载的tar.gz文件，找到下面这个文件并解压缩出来（不需要解压缩完整的安装包，只需要解压缩出这一个文件）
 
@@ -24,22 +24,22 @@ ifconfig
 
 ```
 [root@localhost ~]# ifconfig
-eth0      Link encap:Ethernet  HWaddr 00:0C:29:8E:8D:CD  
+eth0      Link encap:Ethernet  HWaddr 00:0C:29:8E:8D:CD
           inet addr:192.168.1.31  Bcast:192.168.1.255  Mask:255.255.255.0
           inet6 addr: fe80::20c:29ff:fe8e:8dcd/64 Scope:Link
           UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
           RX packets:84 errors:0 dropped:0 overruns:0 frame:0
           TX packets:18 errors:0 dropped:0 overruns:0 carrier:0
-          collisions:0 txqueuelen:1000 
+          collisions:0 txqueuelen:1000
           RX bytes:21540 (21.0 KiB)  TX bytes:1936 (1.8 KiB)
 
-lo        Link encap:Local Loopback  
+lo        Link encap:Local Loopback
           inet addr:127.0.0.1  Mask:255.0.0.0
           inet6 addr: ::1/128 Scope:Host
           UP LOOPBACK RUNNING  MTU:16436  Metric:1
           RX packets:28 errors:0 dropped:0 overruns:0 frame:0
           TX packets:28 errors:0 dropped:0 overruns:0 carrier:0
-          collisions:0 txqueuelen:0 
+          collisions:0 txqueuelen:0
           RX bytes:2032 (1.9 KiB)  TX bytes:2032 (1.9 KiB)
 ```
 
@@ -54,14 +54,14 @@ lo        Link encap:Local Loopback
 然后再要求提示输入静态ip的地方，输入前面记录的ip地址，例如前面记录的ip地址：192.168.1.31（一定不要输入错误）。下面是这个脚本执行的一个例子：
 
 ```
-[root@localhost ~]# ./config.sh 
+[root@localhost ~]# ./config.sh
 新建系统用户用于进行企业版的部署
 用户名为wiznote
 请设置并牢记该用户的登录密码
 Changing password for user wiznote.
-New password: 
+New password:
 BAD PASSWORD: it is too simplistic/systematic
-Retype new password: 
+Retype new password:
 passwd: all authentication tokens updated successfully.
 请输入设置的静态ip地址:192.168.1.31
 原始配置文件已备份至同目录下的bak文件
@@ -160,9 +160,3 @@ http://192.168.1.31
 私有部署中内置了一个管理账号，admin@wiz.cn，该账号默认密码为123456，建议修改默认密码。该账号拥有一个企业群组，建议使用该企业群组进行团队的交流和协作。
 
 私有部署中内置了管理功能，在登录页面可以进入后台管理页面，使用admin@wiz.cn账号的密码进行登录。可以对群组成员进行管理，批量导入成员，查看各服务运行状态，设置数据库备份的定时任务，查看统计数据等操作。
-
-## 注意事项
-
-1. 虚拟机网络设置，选择桥接方式，否则局域网内其他电脑可能无法访问虚拟机。
-1. 最好给虚拟机设置静态ip，避免动态分配ip的时候，造成设置失效。
-1. 在虚拟机中安装部署完成之后，最好保存虚拟机中的操作系统的快照，避免出错的时候，需要进行重新安装。

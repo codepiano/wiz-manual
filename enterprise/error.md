@@ -1,5 +1,12 @@
 ## 安装和使用中常见问题
 
+1. 虚拟机安装过程出现`this kernel requires an x86-64 cpu,but only detected an i686 cpu. unable to boot - please use a kernel appropriate for your cpu.`
+
+    原因可能有：
+    + 主机未开启虚拟化支持，不同的服务器开启方式不同，请查找用户手册或联系服务提供商
+    + 虚拟机未开启虚拟化支持，需要检查虚拟机软件的设置
+    + CPU不支持虚拟化，需要更换支持虚拟化的服务器
+
 1. 安装过程出错，执行终止
 
     可能有两个原因。
@@ -14,7 +21,7 @@
 
 1. 安装以后可以打开登录页面，但无法正常登录
 
-    检查as服务是否启动，检查方法见<a href="./administrator.html">运维相关</a>
+    检查as服务是否启动，检查方法见[运维相关](./administrator.html)
 
 1. WEB端可以正常登录和新建笔记，Windows客户端无法正常同步
 
