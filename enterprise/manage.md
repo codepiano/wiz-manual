@@ -29,7 +29,7 @@
     ![manage_add](img/manage_add.png)
 
 + 批量导入用户
-    
+
     下载提供的模板，模板为一个CSV文件，可以被excel或文本编辑器打开，填写用户信息，然后上传导入。
 
     ![manage_add](img/manage_import.png)

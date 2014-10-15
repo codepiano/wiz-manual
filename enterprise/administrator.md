@@ -10,7 +10,7 @@
     * Apache Tomcat 7.0.47
     * Tengine 2.0.3
     * Nodejs 0.10 稳定版
-1. kv数据存储
+1. 缓存数据存储
     Redis 2.6 稳定版
 1. 搜索服务
     ElasticSearch 0.90.5
@@ -107,7 +107,7 @@
 
 * 服务位置 /wiz/app/manage_console
 * 配置文件 /wiz/app/manage_console/config.js
-* 日志位置 
+* 日志位置
 
     日志位于/home/wiznote/.forever
     查看是否启动 使用命令
@@ -129,7 +129,7 @@
 
 静态页面，html、js、css等
 
-* 服务位置 /wiz/app/note.wiz.cn 
+* 服务位置 /wiz/app/note.wiz.cn
 * 配置文件
 
 
@@ -174,7 +174,7 @@ sudo puppet apply --modulepath=/wiz/EnterpriseDeploy/puppet/modules/ /wiz/init.p
 * 配置文件 /etc/my.cnf
 
 
-#### Redis 内存数据库
+#### Redis key-value数据存储
 
 存放应用内使用的非持久化数据或缓存数据
 
