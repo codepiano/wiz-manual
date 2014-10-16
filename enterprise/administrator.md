@@ -204,3 +204,19 @@ sudo puppet apply --modulepath=/wiz/EnterpriseDeploy/puppet/modules/ /wiz/init.p
 定时对备份数据进行检查，查看数据是否正常备份，以应对由于硬件损坏、自然灾害而出现数据丢失的情况。
 
 如果出现服务器错误导致无法登录，或者某些功能不正常，需要对所有服务进行检查，查看服务是否正常运行。如果服务因错误而中止，需要重新将其启动。
+
+### 数据备份
+
+备份需要备份两部分数据，数据库和文件
+
+#### 数据库备份
+
+数据库备份可以使用sqldump命令备份整个数据库，在服务器的终端中执行该命令会将数据库保存到当前目录的mysql_databases.bak文件中
+
+```
+mysqldump -uroot -proot --databases wizasent wizksent wiz_message wizkv > mysql_databases.bak
+```
+
+#### 文件备份
+
+文件备份需要备份整个/wiz/storage目录
