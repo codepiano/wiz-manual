@@ -195,6 +195,7 @@ InitHelperButton();
         var iconFileName = pluginPath + "helper.ico";
         objWindow.AddToolButton("document", "HelperButton", buttonText, iconFileName, "OnHelperButtonClicked");
     }
+
     InitHelperButton();
 
     /*
@@ -284,7 +285,6 @@ InitHelperButton();
             return e1.length < e2.length;
         });
     }
-
 
     /*
     获得所有的标签名称数组

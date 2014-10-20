@@ -1,6 +1,6 @@
 # Summary
 
-* [windows插件开发教程](webkit-notice.md)
+* [windows插件开发教程](course/webkit-notice.md)
     * [新建和发布插件](course/hello-world.md)
     * [插件文件介绍](course/plugin-file-introduce.md)
     * [弹出对话框](course/create-dialog.md)
