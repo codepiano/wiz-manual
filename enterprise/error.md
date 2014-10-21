@@ -7,6 +7,14 @@
     + 虚拟机未开启虚拟化支持，需要检查虚拟机软件的设置
     + CPU不支持虚拟化，需要更换支持虚拟化的服务器
 
+1. 安装mysql完成以后出现如下错误
+    ```
+    mysql install success!
+    /usr/sbin/semanage: bad option
+    ```
+
+    出现该错误的原因是操作系统的selinux被关闭，默认情况下改选项是默认打开的，检查 `/etc/selinux/config` 文件中的设置，修改 SELINUX= 这一行为 enforcing
+
 1. 安装过程出错，提示缺少某些软件包，执行终止
 
     可能有以下个原因。
