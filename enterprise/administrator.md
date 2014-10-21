@@ -62,7 +62,7 @@
     curl localhost:8080/wizks/xmlrpc
     # 正常输出
     XML-RPC server accepts POST requests only.
-```
+    ```
 
 ##### search 搜索服务
 
@@ -102,23 +102,30 @@
 * 配置文件
     + /wiz/app/websdk/conf/configCore.js
     + /wiz/app/websdk/conf/config.js
+* 日志位置
+    日志位于/home/wiznote/.forever
+    查看是否启动 使用命令
+    ```shell
+    forever logs
+    ```
+    查看日志文件的位置，通过`forever logs`命令的输出的路径，查找日志文件进行查看
 
 ##### manage_console 管理后台
 
 * 服务位置 /wiz/app/manage_console
 * 配置文件 /wiz/app/manage_console/config.js
 * 日志位置
-
     日志位于/home/wiznote/.forever
     查看是否启动 使用命令
     ```shell
     forever logs
     ```
-    查看日志文件的位置，通过日志文件进行查看
+    查看日志文件的位置，通过`forever logs`命令的输出的路径，查找日志文件进行查看
 
 #### API服务
 
 ##### api windows客户端使用的api
+
 * 服务位置 /wiz/app/go
 * 配置文件 /wiz/app/api/go.lua
 * 日志文件位置 /usr/local/nginx/logs/
@@ -197,17 +204,19 @@ sudo puppet apply --modulepath=/wiz/EnterpriseDeploy/puppet/modules/ /wiz/init.p
 
 ### 运维建议
 
-为保障企业私有部署的正常运行，数据的安全，建议建立常规的服务巡检制度和数据备份制度。
+为保障企业私有部署的正常运行，数据的安全，建议建立常规的服务巡检制度和数据备份制度
 
-定时对所有服务进行巡检，查看磁盘使用情况、各个服务运行情况，以保障企业私有部署服务的正常稳定运行。
+定时对所有服务进行巡检，查看磁盘使用情况、各个服务运行情况，以保障企业私有部署服务的正常稳定运行
 
-定时对备份数据进行检查，查看数据是否正常备份，以应对由于硬件损坏、自然灾害而出现数据丢失的情况。
+定时对备份数据进行检查，查看数据是否正常备份，以应对由于硬件损坏等不可抗力而出现数据丢失的情况
 
-如果出现服务器错误导致无法登录，或者某些功能不正常，需要对所有服务进行检查，查看服务是否正常运行。如果服务因错误而中止，需要重新将其启动。
+如果出现服务器错误导致无法登录，或者某些功能不正常，需要对所有服务进行检查，查看服务是否正常运行。如果服务因错误而中止，需要重新将其启动
 
 ### 数据备份
 
-备份需要备份两部分数据，数据库和文件
+备份需要备份两部分数据，数据库和笔记文件数据，备份时先停止服务，备份数据库和笔记文件数据，这两部分数据共同组成一份完整的备份
+
+定期对文件进行备份，将数据备份到外部存储，防止数据丢失
 
 #### 数据库备份
 
@@ -217,6 +226,6 @@ sudo puppet apply --modulepath=/wiz/EnterpriseDeploy/puppet/modules/ /wiz/init.p
 mysqldump -uroot -proot --databases wizasent wizksent wiz_message wizkv > mysql_databases.bak
 ```
 
-#### 文件备份
+#### 笔记文件数据备份
 
-文件备份需要备份整个/wiz/storage目录
+文件备份需要备份整个 `/wiz/storage` 目录

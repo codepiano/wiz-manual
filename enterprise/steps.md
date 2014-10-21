@@ -125,7 +125,9 @@ Active connection path: /org/freedesktop/NetworkManager/ActiveConnection/1
 home/wiznote/wizenterprise/EnterpriseDeploy
 ```
 
-然后输入以下命令：
+需要注意的是，安装过程不是可重复执行的，一旦安装失败，就必须将系统还原到初始状态，如果使用虚拟机部署，最好先建立一份系统快照
+
+确定前面的配置流程都已完成后，输入以下命令：
 
 ```shell
 ./install.sh
