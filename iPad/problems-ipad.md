@@ -22,8 +22,8 @@
 
 ##其他客户端常见问题
 
-+ #### [iPhone客户端](/manual/iphone/problemsiphone.html)
-+ #### [Android客户端](/manual/android/problemsandroid.html)
-+ #### [Mac客户端](/manual/mac/problemsmac.html)
-+ #### [Web端](/manual/web/problemsweb.html)
-+ #### [Windows客户端](/manual/windows/problemspc.html)
++ #### [Android客户端](/manual/android/problems-android.html)
++ #### [iPhone客户端](/manual/iphone/problems-iphone.html)
++ #### [Mac客户端](/manual/mac/problems-mac.html)
++ #### [Web端](/manual/web/problems-web.html)
++ #### [Windows客户端](/manual/windows/problems-pc.html)

@@ -147,14 +147,17 @@
     联系客服：400-825-8085
 
 ## iPhone客户端
-[点此查看iPhone客户端常见问题](/manual/iphone/problemsiphone.html)
+[点此查看iPhone客户端常见问题](/manual/iphone/problems-iphone.html)
 
 
 ## Android客户端
-[点此查看Android客户端常见问题](/manual/android/problemsandroid.html)
+[点此查看Android客户端常见问题](/manual/android/problems-android.html)
 
 ## iPad客户端
-[点此查看iPad客户端常见问题](/manual/ipad/problemsipad.html)
+[点此查看iPad客户端常见问题](/manual/ipad/problems-ipad.html)
 
 ## Windows客户端
-[点此查看Windows客户端常见问题](/manual/windows/problemspc.html)
+[点此查看Windows客户端常见问题](/manual/windows/problems-pc.html)
+
+## Mac客户端
+[点此查看Mac客户端常见问题](/manual/mac/problems-mac.html)

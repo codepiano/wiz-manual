@@ -28,8 +28,8 @@
     答：最低支持的是 Android 2.3.3
 
 ## 其他客户端常见问题
-+ #### [iPhone客户端](/manual/iphone/problemsiphone.html)
-+ #### [iPad客户端](/manual/iphone/problemsipad.html)
-+ #### [Mac客户端](/manual/iphone/problemsmac.html)
-+ #### [Web端](/manual/web/problemsweb.html)
-+ #### [Windows客户端](/manual/windows/problemspc.html)
++ #### [iPhone客户端](/manual/iphone/problems-iphone.html)
++ #### [iPad客户端](/manual/ipad/problems-ipad.html)
++ #### [Mac客户端](/manual/mac/problems-mac.html)
++ #### [Web端](/manual/web/problems-web.html)
++ #### [Windows客户端](/manual/windows/problems-pc.html)
