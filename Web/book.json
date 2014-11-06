@@ -31,11 +31,11 @@
             "为知笔记官网": "http://www.wiz.cn"
         },
         "tail": {
-            "为知笔记 Windows 版使用手册": "http://www.wiz.cn/manual/windows",
-            "为知笔记 Mac 版使用手册": "http://www.wiz.cn/manual/mac",
-            "为知笔记 Android 版使用手册": "http://www.wiz.cn/manual/android",
-            "为知笔记 iPhone 版使用手册": "http://www.wiz.cn/manual/iphone",
-            "为知笔记 iPad 版使用手册": "http://www.wiz.cn/manual/ipad"
+            "为知笔记 Windows 版使用手册": "/manual/windows",
+            "为知笔记 Mac 版使用手册": "/manual/mac",
+            "为知笔记 Android 版使用手册": "/manual/android",
+            "为知笔记 iPhone 版使用手册": "/manual/iphone",
+            "为知笔记 iPad 版使用手册": "/manual/ipad"
         },
         "gitbook": false,
         "sharing": {

@@ -11,7 +11,7 @@ if [[ ! "$USER" = "codepiano" ]]; then
     fi
 fi
 echo 使用的相对路径，会清空同级目录下的manual目录
-mkdir manual 
+mkdir manual
 rm -rf manual/*
 cp index.html manual/
 echo ----------------生成mac--------------------

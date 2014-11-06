@@ -47,7 +47,7 @@ location ^~ /manual {
     ```shell
     npm isntall gitbook-plugin-duoshuo
     ```
- 
+
 1. 谷歌分析插件
     ```shell
     npm install gitbook-plugin-ga
