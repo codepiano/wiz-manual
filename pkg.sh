@@ -32,4 +32,7 @@ mv iPad/_book manual/ipad
 echo ----------------生成iphone-----------------
 gitbook build iPhone
 mv iPhone/_book manual/iphone
+echo ----------------生成enterprise-----------------
+gitbook build enterprise
+mv enterprise/_book manual/enterprise
 echo ----------------success--------------------
