@@ -1,5 +1,5 @@
 {
-    "title":  "为知笔记网页版使用手册", 
+    "title":  "为知笔记网页版使用手册",
     "description": "为知笔记网页版使用手册",
     "introduction": {
         "path": "welcome-web.md",
@@ -25,20 +25,10 @@
         },
         "tail": {
             "为知笔记 Windows 版使用手册": "/manual/windows",
-            "为知笔记 Mac 版使用手册": "/manual/mac",
-            "为知笔记 Android 版使用手册": "/manual/android",
-            "为知笔记 iPhone 版使用手册": "/manual/iphone",
-            "为知笔记 iPad 版使用手册": "/manual/ipad"
+            "为知笔记 Android 版使用手册": "/manual/android"
         },
         "gitbook": false,
-        "sharing": {
-            "google"   : true,
-            "facebook" : true,
-            "twitter"  : true,
-            "weibo"    : true,
-            "qq"       : true,
-            "qrcode"   : true
-        }
+        "sharing": false
     },
     "pdf": {
         "toc": true,
