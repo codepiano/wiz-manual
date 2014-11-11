@@ -6,20 +6,13 @@
         "title": "欢迎使用为知笔记"
     },
     "plugins": [
-        "-mathjax", "ga", "duoshuo"
+        "-mathjax"
     ],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",
             "family": "serif",
             "size": 2
-        },
-        "ga": {
-            "token": "UA-39088953-8"
-        },
-        "duoshuo": {
-            "short_name": "wiznote",
-            "theme": "default"
         }
     },
     "links": {

@@ -6,20 +6,13 @@
         "title": "服务介绍"
     },
     "plugins": [
-        "-mathjax", "ga", "duoshuo"
+        "-mathjax"
     ],
     "pluginsConfig": {
         "fontSettings": {
             "theme": "white",
             "family": "serif",
             "size": 2
-        },
-        "ga": {
-            "token": "UA-39088953-8"
-        },
-        "duoshuo": {
-            "short_name": "wiznote",
-            "theme": "default"
         }
     },
     "links": {
