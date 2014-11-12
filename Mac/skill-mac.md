@@ -31,7 +31,7 @@
     ![G5](img/G5.jpg)
 + 选择需要恢复的版本->点击恢复即可
 
-    ![G6](img/G6.jpg)
+    ![G6](img/history-compare.jpg)
 
 **附件历史版本恢复：**
 + 右键点击附件->历史
