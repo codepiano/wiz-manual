@@ -30,6 +30,8 @@ function build() {
     gitbook build iPhone -f "${format}" -o "manual/iphone" "$verbose"
     echo ---------------- enterprise -----------------
     gitbook build enterprise -f "${format}" -o "manual/enterprise" "$verbose"
+    echo ---------------- plugin -----------------
+    gitbook build plugin -f "${format}" -o "manual/plugin" "$verbose"
     echo ----------------success--------------------
 }
 
