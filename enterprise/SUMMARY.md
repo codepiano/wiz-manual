@@ -4,6 +4,7 @@
 * [存储方案](partition.md)
 * [安装操作系统](centos.md)
 * [安装步骤](steps.md)
+* [使用方法](usage.md)
 * [如何升级](update.md)
 * [常见问题](faq.md)
 * [常见错误](error.md)

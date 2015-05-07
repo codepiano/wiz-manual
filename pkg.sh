@@ -10,55 +10,20 @@ if [[ ! "$USER" = "codepiano" ]]; then
         cp favicon.ico $gitbook_home/theme/assets/images/favicon.ico
     fi
 fi
-
-function build() {
-    echo 使用的相对路径，会清空同级目录下的manual目录
-    mkdir manual
-    rm -rf manual/*
-    cp index.html manual/
-    echo ---------------- mac --------------------
-    gitbook build Mac -f "${format}" -o "manual/mac" "$verbose"
-    echo ---------------- windows ----------------
-    gitbook build PC -f "${format}" -o "manual/windows" "$verbose"
-    echo ---------------- web --------------------
-    gitbook build Web -f "${format}" -o "manual/web" "$verbose"
-    echo ---------------- android ----------------
-    gitbook build android -f "${format}" -o "manual/android" "$verbose"
-    echo ---------------- ipad -------------------
-    gitbook build iPad -f "${format}" -o "manual/ipad" "$verbose"
-    echo ---------------- iphone -----------------
-    gitbook build iPhone -f "${format}" -o "manual/iphone" "$verbose"
-    echo ---------------- enterprise -----------------
-    gitbook build enterprise -f "${format}" -o "manual/enterprise" "$verbose"
-    echo ---------------- plugin -----------------
-    gitbook build plugin -f "${format}" -o "manual/plugin" "$verbose"
-    echo ----------------success--------------------
-}
-
-# default build format
-format='site'
-
-if [[ ! $# -eq 0 ]]; then
-	while getopts "f:" optname
-	do
-		case "$optname" in
-			"f")
-                echo "$OPTARG"
-                if [ ! "$OPTARG" = '' ];then
-                    format="$OPTARG"
-                fi
-				;;
-        esac
-	done
-fi
-build
-# only check pdf
-if [[ "$format" = 'ebook' ]];then
-    mv manual/mac/index.pdf ./mac.pdf
-    mv manual/windows/index.pdf ./windows.pdf
-    mv manual/web/index.pdf ./web.pdf
-    mv manual/android/index.pdf ./android.pdf
-    mv manual/ipad/index.pdf ./ipad.pdf
-    mv manual/iphone/index.pdf ./iphone.pdf
-    mv manual/enterprise/index.pdf ./enterprise.pdf
-fi
+echo 使用的相对路径，会清空同级目录下的manual目录
+mkdir manual
+rm -rf manual/*
+cp index.html manual/
+echo ----------------生成windows----------------
+gitbook build PC
+mv PC/_book manual/windows
+echo ----------------生成web--------------------
+gitbook build Web
+mv Web/_book manual/web
+echo ----------------生成android----------------
+gitbook build android
+mv android/_book manual/android
+echo ----------------生成enterprise-----------------
+gitbook build enterprise
+mv enterprise/_book manual/enterprise
+echo ----------------success--------------------
