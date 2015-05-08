@@ -33,7 +33,7 @@ function build() {
     echo ---------------- plugin -----------------
     gitbook build plugin -f "${format}" -o "manual/plugin" "$verbose"
     echo ---------------- wizbox -----------------
-    gitbook build plugin -f "${format}" -o "manual/wizbox" "$verbose"
+    gitbook build wizbox -f "${format}" -o "manual/wizbox" "$verbose"
     echo ----------------success--------------------
 }
 
