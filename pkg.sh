@@ -32,6 +32,8 @@ function build() {
     gitbook build enterprise -f "${format}" -o "manual/enterprise" "$verbose"
     echo ---------------- plugin -----------------
     gitbook build plugin -f "${format}" -o "manual/plugin" "$verbose"
+    echo ---------------- wizbox -----------------
+    gitbook build plugin -f "${format}" -o "manual/wizbox" "$verbose"
     echo ----------------success--------------------
 }
 
