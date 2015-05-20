@@ -3,7 +3,7 @@
 在执行初始化之前，请按照说明书提示，连接电源和网线。
 
 #### 使用应用程序进行初始化
-1. 访问 ： http://release.wiz.cn/WizBoxClient.exe  ，下载初始化应用程序，双击运行。
+1. 访问 ： http://release.wiz.cn/WizBoxClient-2015-05-12.exe   ，下载初始化应用程序，双击运行。
 2. 程序将自动扫描为知盒子
 
    ![扫描盒子](img/find.png)
