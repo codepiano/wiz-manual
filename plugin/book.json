@@ -7,7 +7,7 @@
         "title": "为知笔记开发文档概述"
     },
     "plugins": [
-        "-mathjax", "ga", "duoshuo"
+        "-mathjax", "ga", "duoshuo","baiduana"
     ],
     "pluginsConfig": {
         "fontSettings": {
@@ -21,6 +21,9 @@
         "duoshuo": {
             "short_name": "wiznote",
             "theme": "default"
+        },
+        "baidu": {
+            "token": "aff63672a978bafa4c6eb966ea4de6cf"
         }
     },
     "links": {
