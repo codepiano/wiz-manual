@@ -63,4 +63,6 @@ if [[ "$format" = 'ebook' ]];then
     mv manual/ipad/index.pdf ./ipad.pdf
     mv manual/iphone/index.pdf ./iphone.pdf
     mv manual/enterprise/index.pdf ./enterprise.pdf
+    mv manual/wizbox/index.pdf ./wizbox.pdf
+    mv manual/plugin/index.pdf ./plugin.pdf
 fi
