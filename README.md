@@ -45,11 +45,16 @@ location ^~ /manual {
 
 1. 第三方评论插件，集成多说评论
     ```shell
-    npm isntall gitbook-plugin-duoshuo
+    npm install gitbook-plugin-duoshuo
     ```
 
 1. 谷歌分析插件
     ```shell
     npm install gitbook-plugin-ga
+    ```
+
+1. 百度分析插件
+    ```shell
+    npm install gitbook-plugin-baiduana
     ```
 
