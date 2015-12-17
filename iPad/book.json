@@ -7,7 +7,7 @@
         "title": "欢迎使用为知笔记"
     },
     "plugins": [
-        "-mathjax", "ga", "duoshuo","baiduana"
+        "-mathjax", "ga", "baiduana"
     ],
     "pluginsConfig": {
         "fontSettings": {

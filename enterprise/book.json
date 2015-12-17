@@ -7,7 +7,7 @@
         "title": "服务介绍"
     },
     "plugins": [
-        "-mathjax", "ga", "duoshuo","baiduana"
+        "-mathjax", "ga", "baiduana"
     ],
     "pluginsConfig": {
         "fontSettings": {

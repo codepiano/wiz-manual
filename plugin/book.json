@@ -7,7 +7,7 @@
         "title": "为知笔记开发文档概述"
     },
     "plugins": [
-        "-mathjax", "ga", "duoshuo","baiduana"
+        "-mathjax", "ga", "baiduana"
     ],
     "pluginsConfig": {
         "fontSettings": {
